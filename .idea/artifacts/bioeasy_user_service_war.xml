@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bioeasy-user-service:war">
+    <output-path>$PROJECT_DIR$/bioeasy-user/bioeasy-user-service/target</output-path>
+    <root id="archive" name="bioeasy-user-service.war">
+      <element id="artifact" artifact-name="bioeasy-user-service:war exploded" />
+    </root>
+  </artifact>
+</component>

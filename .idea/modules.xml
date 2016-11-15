@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bioeasy.iml" filepath="$PROJECT_DIR$/bioeasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-common/bioeasy-common.iml" filepath="$PROJECT_DIR$/bioeasy-common/bioeasy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-entity/bioeasy-entity.iml" filepath="$PROJECT_DIR$/bioeasy-entity/bioeasy-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-mongo/bioeasy-mongo.iml" filepath="$PROJECT_DIR$/bioeasy-mongo/bioeasy-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-redis/bioeasy-redis.iml" filepath="$PROJECT_DIR$/bioeasy-redis/bioeasy-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-user/bioeasy-user.iml" filepath="$PROJECT_DIR$/bioeasy-user/bioeasy-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-user/bioeasy-user-api/bioeasy-user-api.iml" filepath="$PROJECT_DIR$/bioeasy-user/bioeasy-user-api/bioeasy-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-user/bioeasy-user-dao/bioeasy-user-dao.iml" filepath="$PROJECT_DIR$/bioeasy-user/bioeasy-user-dao/bioeasy-user-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bioeasy-user/bioeasy-user-service/bioeasy-user-service.iml" filepath="$PROJECT_DIR$/bioeasy-user/bioeasy-user-service/bioeasy-user-service.iml" />
+    </modules>
+  </component>
+</project>
